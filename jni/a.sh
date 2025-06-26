@@ -1,0 +1,1 @@
+find /storage/emulated/0/workTempZip/Dumper/app/src/main/jni/ -type f -exec grep -H 'StaticClass()->GetDefaultObject()' {} \;
